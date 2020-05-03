@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Color Converter</string>
+    <string name="generic_about_dialog">The Color Converter app represents color in RGB, HSV, CMYK, HEX format. \n This app is designed for designers, programmers or anyone else who wants to convert color or find the value of color in a different format.</string>
+    <string name="rgb_about_dialog">RGB - A color representation designed for computer screens using the three primary colors of red, green and blue when the level of the combination of the three gives the color.</string>
+    <string name="hsv_about_dialog">HSV - Is also designed to represent color on a computer but in a different way. The letter H represents the hue of the color. The letter S represents the saturation of the color. And the letter V represent the value of the color.</string>
+    <string name="cmyk_about_dialog">CMYK - This color representation method is used to represent a printable color, since the computer is a light source but the page is not a light source, it is necessary to convert the RGB method to a custom color representation method for printing.</string>
+    <string name="hex_about_dialog">HEX - This color representation method is based on RGB and each color is represented by two digits based on hexadecimal base.</string>
+    <string name="red_title">R</string>
+    <string name="green_title">G</string>
+    <string name="blue_title">B</string>
+    <string name="hue_title">H</string>
+    <string name="saturation_title">S</string>
+    <string name="value_title">V</string>
+    <string name="cyan_title">C</string>
+    <string name="magenta_title">M</string>
+    <string name="yellow_title">Y</string>
+    <string name="key_title">K</string>
+    <string name="rgb_title">RGB</string>
+    <string name="hsv_title">HSV</string>
+    <string name="cmyk_title">CMYK</string>
+    <string name="hex_title">HEX</string>
+    <string name="copy_lable">Copy</string>
+    <string name="color_copied_toast">Color copied</string>
+
+
+
+    <string-array name="spinner_array">
+        <item>Default</item>
+        <item>Camera</item>
+        <item>Library</item>
+    </string-array>
+</resources>
